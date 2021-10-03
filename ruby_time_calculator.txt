@@ -1,0 +1,4 @@
+git merge edits
+git add README.md
+git add examples.md
+git branch -d edits
